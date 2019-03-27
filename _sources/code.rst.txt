@@ -1,0 +1,5 @@
+Auto Generated Code Documentation
+=================================
+.. automodule:: hw_Wang_Minchen
+    :members:
+    :undoc-members:

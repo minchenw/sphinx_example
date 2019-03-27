@@ -1,0 +1,3 @@
+My Code Tutorial
+================
+Run $python hw_Wang_Minchen.py on your terminal.
